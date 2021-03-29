@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.derjust:spring-data-dynamodb:5.0.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/derjust/spring-data-dynamodb/5.0.4/spring-data-dynamodb-5.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/derjust/spring-data-dynamodb/5.0.4/spring-data-dynamodb-5.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/derjust/spring-data-dynamodb/5.0.4/spring-data-dynamodb-5.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

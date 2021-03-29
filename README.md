@@ -1,1 +1,1 @@
-API de Gerenciamento de Heróis Marvel/DC feito com Spring Framework e testes unitários com JUnit.
+API de Gerenciamento de Heróis Marvel/DC feito com Spring Framework, banco de dados DynamoDB e testes unitários com JUnit.
